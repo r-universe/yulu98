@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "RCreliability"]
 	path = RCreliability
-	url = https://github.com/yulu98/rcreliability
+	url = https://github.com/cran/RCreliability
